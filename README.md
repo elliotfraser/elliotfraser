@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Power Platform Consultant / Developer / Engineer</h1>
 
-<!--
-**elliotfraser/elliotfraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Power Platform Projects:</h2>
 
-Here are some ideas to get you started:
+<h3>Travel Approval App</h3>
+  
+ A personal project I am working on which I am submitting to the AgileXRM contest.
+ 
+ #Model-DrivenApp #CustomPages #PowerAutomate #AdaptiveCards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Onsite Survey & Assessment Apps (current Project)</h3>
+  
+ My current project where I am the techical lead. 
+ #Model-DrivenApp #CanvasApp #OfflineCapability #PowerPages
+ 
+<h3>Construction Services App</h3>
+
+<h3>Legal Transactions App</h3>
+
+<h3>Financial Data Access Control Solution</h3>
+
+<h3>UKHSA Gov COVID-19 Point of Care Testing Solution</h3>
+
+<h3>Global Movement Challenge Solution</h3>
