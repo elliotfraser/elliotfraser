@@ -1,4 +1,4 @@
-<h1>Power Platform Consultant / Developer / Engineer</h1>
+<h1>Senior Power Platform Engineer</h1>
 
 <h2>👨‍💻 Power Platform Projects:</h2>
 
