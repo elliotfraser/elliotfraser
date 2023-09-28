@@ -1,4 +1,4 @@
-<h1>Senior Power Platform Engineer</h1>
+<h1>Senior Power Platform Software Engineer</h1>
 
 <h2>👨‍💻 Power Platform Projects:</h2>
 
