@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Power Platform Projects:</h2>
 
-## Travel Request Approval App
+## Teaching Accelerator - Power Platform AI Hackathon
   
- A personal project I am working on which I am submitting to the AgileXRM contest.
+My submission to the Power Platform AI Hack.
  
- [View documentation, pictures and videos here](https://github.com/elliotfraser/TravelRequestApprovalApp/blob/main/README.md)
+ [View documentation, pictures and videos here](https://github.com/elliotfraser/TeachingAccelerator_AIHackathon)
  
